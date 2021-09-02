@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @mtbstn24 
-- 😇
+- 👋 I’m `@mtbstn24` 
+- 😇 `Computer Science` undergraduate of University of Colombo School of Computing (`UCSC`)
