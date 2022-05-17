@@ -4,6 +4,6 @@
 #### Projects
 - 2nd Year Group Project - [Co-WMS](https://github.com/CS41-UCSC/FINAL.git)
 
-#### Find me
+#### Contact
 - [Medium](https://medium.com/@marita.thushari)
 - [LinkedIn](https://www.linkedin.com/in/marita-thushari-88ab331a4/)
