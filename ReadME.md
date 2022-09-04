@@ -8,7 +8,7 @@
    - Individual project on 'Posting Facebook feed using Access Tokens'
 - [Blog Platform](https://github.com/mtbstn24/blog-platform)  &nbsp; ![](https://progress-bar.dev/75/)
   - Tutorial project on Blog using ReactJS
-- [File Uploading Component](https://github.com/mtbstn24/image-upload-multer)  &nbsp; ![](https://progress-bar.dev/60/)
+- [File Uploading Component](https://github.com/mtbstn24/image-upload-multer)  &nbsp; ![](https://progress-bar.dev/70/)
   - A component to upload files to backend using ReactJS and Multer middleware.
 
 #### Check on some latest updates
