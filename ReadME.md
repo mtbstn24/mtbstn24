@@ -10,6 +10,8 @@
   - Tutorial project on Blog using ReactJS
 - [File Uploading Component](https://github.com/mtbstn24/image-upload-multer)  &nbsp; ![](https://progress-bar.dev/70/)
   - A component to upload files to backend using ReactJS and Multer middleware.
+- [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/60/)
+  - 3rd Year Group Project, an Event Planner System.
 
 #### Check on some latest updates
 - [Medium](https://medium.com/@marita.thushari)
