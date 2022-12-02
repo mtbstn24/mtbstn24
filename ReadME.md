@@ -8,9 +8,9 @@
    - Individual project on 'Posting Facebook feed using Access Tokens'
 - [Blog Platform](https://github.com/mtbstn24/blog-platform)  &nbsp; ![](https://progress-bar.dev/75/)
   - Tutorial project on Blog using ReactJS
-- [File Uploading Component](https://github.com/mtbstn24/image-upload-multer)  &nbsp; ![](https://progress-bar.dev/80/)
+- [File Uploading Component](https://github.com/mtbstn24/image-upload-multer)  &nbsp; ![](https://progress-bar.dev/90/)
   - A component to upload files to backend using ReactJS and Multer middleware.
-- [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/75/)
+- [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/85/)
   - 3rd Year Group Project, an Event Planner System.
 
 #### Check on some latest updates
