@@ -13,6 +13,8 @@
 - [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/85/)
   - 3rd Year Group Project, an Event Planner System.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbstn24&langs_count=10&layout=compact)](https://github.com/mtbstn24/)
+
 #### Check on some latest updates
 - [Medium](https://medium.com/@marita.thushari)
 - [LinkedIn](https://www.linkedin.com/in/marita-thushari-88ab331a4/)
