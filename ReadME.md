@@ -12,6 +12,8 @@
   - A component to upload files to backend using ReactJS and Multer middleware.
 - [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/85/)
   - 3rd Year Group Project, an Event Planner System.
+- [go-client-kubernetes](https://github.com/mtbstn24/go-client-kubernetes) &nbsp; ![](https://progress-bar.dev/95/)
+  - Go CLI project to create deployments, services and expose with ingress using go-client for kubernetes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbstn24&langs_count=10&layout=compact)](https://github.com/mtbstn24/)
 
