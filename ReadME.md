@@ -1,5 +1,6 @@
 - 👋 I’m `@mtbstn24` 
-- 😇 `Computer Science` undergraduate of University of Colombo School of Computing (`UCSC`) currently reading for BSc (Hons) Software Engineering
+- 😇 `Computer Science` undergraduate of University of Colombo School of Computing (`UCSC`)
+- Currently reading for BSc (Hons) Software Engineering
 
 #### Projects
 - [Co-WMS](https://github.com/CS41-UCSC/FINAL.git) &nbsp; ![](https://progress-bar.dev/100/)
