@@ -11,7 +11,7 @@
   - Tutorial project on Blog using ReactJS
 - [File Uploading Component](https://github.com/mtbstn24/image-upload-multer)  &nbsp; ![](https://progress-bar.dev/90/)
   - A component to upload files to backend using ReactJS and Multer middleware.
-- [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/85/)
+- [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/90/)
   - 3rd Year Group Project, an Event Planner System.
 - [go-client-kubernetes](https://github.com/mtbstn24/go-client-kubernetes) &nbsp; ![](https://progress-bar.dev/95/)
   - Go CLI project to create deployments, services and expose with ingress using go-client for kubernetes.
