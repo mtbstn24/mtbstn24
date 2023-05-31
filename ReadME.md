@@ -13,6 +13,8 @@
   - A component to upload files to backend using ReactJS and Multer middleware.
 - [Evento](https://github.com/G19-UCSC/evento) &nbsp; ![](https://progress-bar.dev/90/)
   - 3rd Year Group Project, an Event Planner System.
+- [Budget Monitor Flutter App](https://github.com/mtbstn24/budget-monitor-flutter)  &nbsp; ![](https://progress-bar.dev/90/)
+  - 3rd Year Mobile Application Development Mini-Project, a Budget Monitor developed using flutter and firebase.
 - [go-client-kubernetes](https://github.com/mtbstn24/go-client-kubernetes) &nbsp; ![](https://progress-bar.dev/95/)
   - Go CLI project to create deployments, services and expose with ingress using go-client for kubernetes.
 
