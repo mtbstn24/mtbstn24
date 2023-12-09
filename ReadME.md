@@ -1,6 +1,8 @@
 - 👋 I’m `@mtbstn24` 
 - 😇 `Computer Science` undergraduate of University of Colombo School of Computing (`UCSC`)
+- 💼 Completed a 6-month Internship as a Software Engineer Intern at WSO2 Lanka (Pvt) Ltd
 - Currently reading for BSc (Hons) Software Engineering
+- Interested in Development, RnD works, and Security
 
 #### Projects
 - [Co-WMS](https://github.com/CS41-UCSC/FINAL.git) &nbsp; ![](https://progress-bar.dev/100/)
