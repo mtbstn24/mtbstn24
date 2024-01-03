@@ -20,6 +20,10 @@
 - [go-client-kubernetes](https://github.com/mtbstn24/go-client-kubernetes) &nbsp; ![](https://progress-bar.dev/95/)
   - Go CLI project to create deployments, services and expose with ingress using go-client for kubernetes.
 
+#### Learning Projects
+- [go-jwt-microservices](https://github.com/mtbstn24/go-jwt-microservice)
+  -  Tutorial project to implement microservices to request for JWT token and to access information by parsing the requested token.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbstn24&langs_count=10&layout=compact)](https://github.com/mtbstn24/)
 
 #### Check on some latest updates
