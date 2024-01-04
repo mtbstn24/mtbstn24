@@ -23,6 +23,8 @@
 #### Learning Projects
 - [go-jwt-microservices](https://github.com/mtbstn24/go-jwt-microservice)
   -  Tutorial project to implement microservices to request for JWT token and to access information by parsing the requested token.
+- [java-learning-projects](https://github.com/mtbstn24/java-projects)
+  -  Simple learning projects in Java.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbstn24&langs_count=10&layout=compact)](https://github.com/mtbstn24/)
 
