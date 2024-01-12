@@ -1,4 +1,5 @@
-- 👋 I’m `@mtbstn24` 
+### 👋 I’m `Marita Thushari` 
+
 - 😇 `Computer Science` undergraduate of University of Colombo School of Computing (`UCSC`)
 - 💼 Completed a 6-month Internship as a Software Engineer Intern at WSO2 Lanka (Pvt) Ltd
 - Currently reading for BSc (Hons) Software Engineering
@@ -29,6 +30,8 @@
   - Java web service using spring boot.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbstn24&langs_count=10&layout=compact)](https://github.com/mtbstn24/)
+  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtbstn24&show_icons=true&theme=transparent)-->
 
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
