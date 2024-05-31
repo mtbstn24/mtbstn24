@@ -3,6 +3,7 @@
 - 😇 `Computer Science` undergraduate of University of Colombo School of Computing (`UCSC`)
 - 💼 Completed a 6-month Internship as a Software Engineer Intern at WSO2 Lanka (Pvt) Ltd
 - Currently reading for BSc (Hons) Software Engineering
+- 💼 Software Engineer at WealthOS Lanka (Pvt) Ltd
 - Interested in Development, RnD works, and Security
 
 #### Projects
